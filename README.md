@@ -71,6 +71,7 @@ Sample Daily Template
 
 ***
 ## Week01
+*Introduction to CS, HTML*
 
 | Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
@@ -109,37 +110,48 @@ Sample Daily Template
 
 | Weekend    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) | REALLY LEARN JS OOP principles |
+| Read     | [responsiveness in HTML and CSS](https://medium.com/@lumrachele/the-fast-track-to-responsive-web-design-with-css-5020ee040450) |Learn how to make your sites from the previous week responsive|
 | Read | [Career Paths](https://killalldefects.com/2020/02/22/specializing-vs-generalizing-careers/)  | Learn more about potential career paths you can go in within tech  | 
-| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Finish creating these sites. Due Monday in class.   |
+| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Finish creating these sites using only HTML. Due Monday in class.   |
 
 ***
 
 ## Week02
-*PostgreSQL*
+*Introduction to CSS*
+
 
 | Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [Big O Notation Explained](https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174) | To help refresh the basics of Big O Notation |
-| Watch    | [Big O Video](https://youtu.be/v4cd1O4zkGw)      | Big O explained simply in video |
-| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+| Lecture| Introduction to CSS| Introducing media queries to students|
+| Lecture| Discussion on separation of concerns| Introducing media queries to students|
+| Watch  | [CSS For Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)| Learn CSS Fundamentals|
+| Read | [CSS Literatur](#)| Learn CSS Fundamentals (tutorial for tatile learners)|
+| Do  | Begin adding CSS to your HTML projects.| All 5 websites should have CSS styling by the end of the week|
 
-| Day 02    | Material     | Description  |
-| ---------|:-------------:| :-----:|
-| Read     | The Imposters Handbook - Big O Chapter | Deeper Dive into Big O |
-| Watch    | [MongoDB vs. PostgreSQL](https://youtu.be/eM7hzKwvTq8)      | Video breaks down the differences   |
 
-| Day 03    | Material     | Description  |
+| Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [PostgreSQL / MySQL comparison](https://blog.panoply.io/postgresql-vs.-mysqld) | Learn all about the difference btw PostgreSQL and MySQL |
-| Watch    | [Great Simple Intro. to PostgreSQL](https://youtu.be/xaWlS9HtWYw)      | Simple intro to PostgreSQL 🚨 **WATCH ALL 4 Videos** |
-| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
-
-| Day 04    | Material     | Description  |
-| ---------|:-------------:| :-----:|
-| Do   | If you haven't  yet INSTALL PostgreSQL | Redo the queries from yesterdays video without looking at the answers. Ask for help in #_help  |
+| Lecture| Introduction to CSS Media queries | Introducing media queries to students|
 | Do       | [JS30 #06](https://javascript30.com/)      | Learn JS Fundamentals && Yes, we are skipping - doing just the 🤑 money projects 🤑 |
 | Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+
+| Day 03   | Material     | Description  |
+| ---------|:-------------:| :-----:|
+| Lecture   | Live demo of making wire frame responsive using CSS| Introduction to responsiveness using CSS using css grid|
+| Lecture   | Introduction to flexbox and css grid | Big O explained simply in video |
+| Do       | Code a copy of the wireframes provided. Make them responsive | Practice using css media quesries to make a wire frame responsive in preparation for making your past wbsites reponsive|
+| Do       |[Flexbox Froggy](https://flexboxfroggy.com/)| Practice using flexbox|
+| Do       |[CSS Grid Garden](https://cssgridgarden.com/)| Practice using CSS grid|
+
+
+| Day 04   | Material     | Description  |
+| ---------|:-------------:| :-----:|
+| Lecture   |Answer any questions about flexbox and CSS grid| Introduction to responsiveness using CSS|
+| Lecture   | Live demo of making one of the most complex sites (NY times mor equivalent) partially responsive so as not to give all of the answers away|Provide students with strategies to make their HTML websites responsive|
+| Do       | (CONTINUE)Code a copy of the wireframes provided. Make them responsive | Practice using css media quesries to make a wire frame responsive in preparation for making your past wbsites reponsive|
+| Do       |[Video tutorial of CSS Responsiveness](#)| Practice using flexbox|
+| Do       |[CSS Grid Garden](#)| Practice using CSS grid|
+
 
 | Day 05    | Material     | Description  |
 | ---------|:-------------:| :-----:|
