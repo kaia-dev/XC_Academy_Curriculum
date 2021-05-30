@@ -38,7 +38,7 @@
 | Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Do       | [Visual Studio Download Link](https://code.visualstudio.com/)| Download Visual Studio Code |
-| Watch    | [Introduction to HTML]https://www.youtube.com/watch?v=UB1O30fR-EE) | Learn the basics of HTML|
+| Watch    | [Introduction to HTML](https://www.youtube.com/watch?v=UB1O30fR-EE) | Learn the basics of HTML|
 | Watch    | [JS Fundamental Video](https://youtu.be/hdI2bqOjy3c)   | Review of all the major concepts in JS |
 | Read     | [The Algorithmic Justice League](https://www.ajl.org/) |Learn about bias in AI|
 | Watch    | [Coded Bias](https://www.netflix.com/title/81328723) |Learn about bias in AI|
