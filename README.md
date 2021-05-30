@@ -37,11 +37,12 @@
 
 | Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Do     | Equipment Setup | Download Visual Studio Code |
-| Read     | [The JS Way Ch. 02](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md) | Learn the new ES6+ variable syntax |
-| Watch    | [JS Fundamental Video](https://youtu.be/hdI2bqOjy3c)      | Review of all the major concepts in JS |
-| Do       | [Sign Up for JS30](https://javascript30.com/)      | Daily Challenges that will help you learn JS |
-| Do       | [Sign Up for CodeWars](https://www.codewars.com/)  | Daily Challenges that will help you learn JS  |
+| Do       | [Visual Studio Download Link](https://code.visualstudio.com/)| Download Visual Studio Code |
+| Watch    | [Introduction to HTML]https://www.youtube.com/watch?v=UB1O30fR-EE) | Learn the basics of HTML|
+| Watch    | [JS Fundamental Video](https://youtu.be/hdI2bqOjy3c)   | Review of all the major concepts in JS |
+| Read     | [The Algorithmic Justice League](https://www.ajl.org/) |Learn about bias in AI|
+| Watch    | [Coded Bias](https://www.netflix.com/title/81328723) |Learn about bias in AI|
+| Read     | [How America's automated future will impact black and brown communities](https://www.forbes.com/sites/markhall/2019/10/16/automation-threatens-black-workers/)  | Learn why we are doing this work|
 ***
 
 
@@ -54,7 +55,6 @@
 | Logistics      | Introduction to XC Acadeny   |   Sign up for payroll, contract (inlcudes ground rules, sexual harassment policy, etc.)  |
 | Read    | [How does the internet work?](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8) | Learn what the internet is |
 | Do       | Equipment Setup   | [Download & Install Visual Studio Code](https://code.visualstudio.com/download) |
-
 
 | Day 02    | Material     | Description  |
 | ---------|:-------------:| :-----:|
@@ -82,17 +82,6 @@
 | Discussion  | Discuss article about Haben Girma | Description |
 | 
 | Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Work for rest of day   |
-
-| Weekend    | Material     | Description  |
-| ---------|:-------------:| :-----:|
-| Read     | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) | REALLY LEARN JS OOP principles |
-| Read | [Career Paths](https://killalldefects.com/2020/02/22/specializing-vs-generalizing-careers/)  | Learn more about potential career paths you can go in within tech  | 
-| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Finish creating these sites. Due Monday in class.   |
-
-***
-
-## Week02
-
 
 | Weekend    | Material     | Description  |
 | ---------|:-------------:| :-----:|
