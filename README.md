@@ -29,88 +29,123 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 - 💻 Practice Problems
 - 👩🏽‍💻 A project that you will submit via Github to receive feedback
 
+Sample Daily Template
+| Day 01    | Material     | Description  |
+| ---------|:-------------:| :-----:|
+| Read | Item | Description |
+| Read | Item | Description |
+| Watch    | Item | Deescription |
+| Do     | Your first project |   https://drive.google.com/drive/folders/1Hlh6ZctyKq-b68EdvcJwkqYJuqNhT1XR |
+
 
 ## Weekly Plans
-- 🚀 [Week 01: **JS Review**](#week01)
-- 🚀 [Week 02: **PostgreSQL**](#week02)
+- 🚀 [Week 0: **Pre-Bootcamp Assignments**](#week00)
+- 🚀 [Week 01: **HTML**](#week01)
+- 🚀 [Week 02: **CSS**](#week02)
+- 🚀 [Week 03: **HTML**](#week03)
+- 🚀 [Week 04: **CSS**](#week04)
+- 🚀 [Week 05: **HTML**](#week05)
+- 🚀 [Week 06: **CSS**](#week06)
+- 🚀 [Week 07: **HTML**](#week07)
+- 🚀 [Week 08: **CSS**](#week8)
+- 🚀 [Week 09: **HTML**](#week09)
+- 🚀 [Week 10: **CSS**](#week10)
+- - 🚀 [Week 11: **HTML**](#week11)
+- 🚀 [Week 12: **CSS**](#week12)
+- - 🚀 [Week 13: **HTML**](#week13)
+- 🚀 [Week 14: **CSS**](#week14)
+- 🚀 [Week 15: **CSS**](#week15)
+- 🚀 [Week 16: **CSS**](#week16)
+
+## Week00 - Pre-Bootcamp Assignments
+
+| Day 01    | Material     | Description  |
+| ---------|:-------------:| :-----:|
+| Do     | Equipment Setup | Download Visual Studio Code |
+| Read     | [The JS Way Ch. 02](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md) | Learn the new ES6+ variable syntax |
+| Watch    | [JS Fundamental Video](https://youtu.be/hdI2bqOjy3c)      | Review of all the major concepts in JS |
+| Do       | [Sign Up for JS30](https://javascript30.com/)      | Daily Challenges that will help you learn JS |
+| Do       | [Sign Up for CodeWars](https://www.codewars.com/)  | Daily Challenges that will help you learn JS  |
+***
 
 
 ***
 ## Week01
 
-| Day 01    | Material     | Why   |
+| Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [The JS Way Ch. 01](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md) | To help refresh the basics of JS |
-| Read     | [The JS Way Ch. 02](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md) | Learn the new ES6+ variable syntax |
-| Watch    | [JS Fundamental Video](https://youtu.be/hdI2bqOjy3c)      | Review of all the major concepts in JS |
-| Do       | [Sign Up for JS30](https://javascript30.com/)      | Daily Challenges that will help you learn JS |
-| Do       | [Sign Up for CodeWars](https://www.codewars.com/)  | Daily Challenges that will help you learn JS  |
+| Lecture      | What is the internet?  |   Learn what the internet is, and what a client/server relationship is.  |
+| Logistics      | Introduction to XC Acadeny   |   Sign up for payroll, contract (inlcudes ground rules, sexual harassment policy, etc.)  |
+| Read    | [How does the internet work?](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8) | Learn what the internet is |
+| Do       | Equipment Setup   | [Download & Install Visual Studio Code](https://code.visualstudio.com/download) |
 
-| Day 02    | Material     | Why   |
+
+| Day 02    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [The JS Way Ch. 03](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter03.md) | Learn proper conditional syntax including switch statements |
-| Read     | [The JS Way Ch. 04](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter04.md) | Better understand loops |
-| Do       | [JS30 #01](https://javascript30.com/)      | Learn to interact with the DOM && use Audio |
-| Do       | [CodeWars Fundamentals](https://www.codewars.com/)  | JS syntax / problem solving practice  |
+| Lecture      | Introduction to HTML   |   HTML and syntax. Introduction to Visual Studio Code.  |
+| Watch    | [HTML Fundamentals Video]([https://www.youtube.com/watch?v=UB1O30fR-EE) | Introduction to HTML |
+| Do       | Wire Framing    | Build site with 2 boxes, 3 boxes, 5 boxes |
 
-| Day 03    | Material     | Why   |
+
+| Day 03    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [The JS Way Ch. 05](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter05.md) | Learn all about functions including new ES6+ fat arrow syntax |
-| Read     | [The JS Way Ch. 06](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter06.md) | Get comfortable with objects again |
-| Watch    | [JS Object Fundamentals Video](https://youtu.be/-e5h4IGKZRY)      | Review JS Objects |
-| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
-
-| Day 04    | Material     | Why   |
+| Lecture     | Re-create Popular Site | Teach how to deconstruct a website, delineate the different elements needed to construct it, then see a live example |
+| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Using Visual Studio Code, outline the content of these 5 popular websites in html. DO NOT USE CSS.   |
+ 
+| Day 04    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [The JS Way Ch. 07](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter07.md) | Get comfortable with using / manipulating arrays 🚨 IMPORTANT FOR INTERVIEWS |
-| Read     | [The JS Way Ch. 08](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter08.md) | Learn important string methods 🚨 IMPORTANT FOR INTERVIEWS  |
-| Do       | [JS30 #02](https://javascript30.com/)      | Learn JS Fundamentals && CSS manipulation with JS |
-| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+| Lecture  | Intro to Accessbility | What is accessbility and how is that implemented in HTML? Learn what aria is. |
+| Read     | [Learn Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) | Further description of what accessibility is.  |
+| Watch   | [Quadriplegic Programmer](https://developer.apple.com/videos/play/wwdc2017/110/)  |  View accessbility's impact on individuals and how it's helped many. |  
+| Listen  | [NPR Podcast](https://www.npr.org/2020/12/10/944885047/designing-our-world-accessibility-in-tech) 
+| Watch  |  [Apple Commercial](https://www.youtube.com/watch?v=XB4cjbYywqg) | Importance of accessibility and how it can be used in practice.   |
+| Do   | [Read this article on Haben Girma](https://www.marketplace.org/shows/marketplace-tech/disability-innovation-assistive-technology-braille/) | Work for rest of day  |
 
-| Day 05    | Material     | Why   |
+| Day 05    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [The JS Way Ch. 09](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter09.md) | Dive into the basics of Object Oriented Javascript |
-| Watch    | [JS OOP Crash Course](https://youtu.be/vDJpGenyHaA)      | Review OOJS |
-| Do       | [Build a Simple Calculator using JS OOP best practices](https://github.com/Resilient-Labs/week01-alumni-project-calculator)  | Reinforce OOP and get comfortable submitting PRs on Github  |
+| Discussion  | Discuss article about Haben Girma | Description |
+| 
+| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Work for rest of day   |
 
-| Weekend    | Material     | Why   |
+| Weekend    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Read     | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) | REALLY LEARN JS OOP principles |
-| Do       | Refactor your Calculator and Resubmit  | Reinforce OOP and get comfortable submitting PRs on Github  |
+| Read | [Career Paths](https://killalldefects.com/2020/02/22/specializing-vs-generalizing-careers/)  | Learn more about potential career paths you can go in within tech  | 
+| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Finish creating these sites. Due Monday in class.   |
 
 ***
 
 ## Week02
 *PostgreSQL*
 
-| Day 01    | Material     | Why   |
+| Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Read     | [Big O Notation Explained](https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174) | To help refresh the basics of Big O Notation |
 | Watch    | [Big O Video](https://youtu.be/v4cd1O4zkGw)      | Big O explained simply in video |
 | Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
 
-| Day 02    | Material     | Why   |
+| Day 02    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Read     | The Imposters Handbook - Big O Chapter | Deeper Dive into Big O |
 | Watch    | [MongoDB vs. PostgreSQL](https://youtu.be/eM7hzKwvTq8)      | Video breaks down the differences   |
 
-| Day 03    | Material     | Why   |
+| Day 03    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Read     | [PostgreSQL / MySQL comparison](https://blog.panoply.io/postgresql-vs.-mysqld) | Learn all about the difference btw PostgreSQL and MySQL |
 | Watch    | [Great Simple Intro. to PostgreSQL](https://youtu.be/xaWlS9HtWYw)      | Simple intro to PostgreSQL 🚨 **WATCH ALL 4 Videos** |
 | Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
 
-| Day 04    | Material     | Why   |
+| Day 04    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Do   | If you haven't  yet INSTALL PostgreSQL | Redo the queries from yesterdays video without looking at the answers. Ask for help in #_help  |
 | Do       | [JS30 #06](https://javascript30.com/)      | Learn JS Fundamentals && Yes, we are skipping - doing just the 🤑 money projects 🤑 |
 | Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
 
-| Day 05    | Material     | Why   |
+| Day 05    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Read     | [ACTIVELY READ: PostgreSQL Tutorial Sections 1 - 3](http://www.postgresqltutorial.com/) | Dive into the basics of PostgreSQL |
 | Do       | [Setup a PostgreSQL DB and do a complex query](https://github.com/Resilient-Labs/week02-alumni-project-postgres-query)  | Reinforce PostgreSQL learning from this week  |
 
-| Weekend    | Material     | Why   |
+| Weekend    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Read     | [ACTIVELY READ: PostgreSQL Tutorial Sections 4 - 9](http://www.postgresqltutorial.com/) | REALLY LEARN PostgreSQL |
