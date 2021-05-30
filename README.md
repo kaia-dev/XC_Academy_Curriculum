@@ -49,18 +49,23 @@
 ***
 ## Week01
 
+*Introduction to the course, Learn HTMLs*
+
+
 | Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Lecture      | What is the internet?  |   Learn what the internet is, and what a client/server relationship is.  |
 | Logistics      | Introduction to XC Acadeny   |   Sign up for payroll, contract (inlcudes ground rules, sexual harassment policy, etc.)  |
 | Read    | [How does the internet work?](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8) | Learn what the internet is |
-| Do       | Equipment Setup   | [Download & Install Visual Studio Code](https://code.visualstudio.com/download) |
+| Do       | Equipment Setup   | [Download & Install Visual Studio Code](https://github.com) |
+| Do       | Equipment Setup   | [Sign up for github](https://code.visualstudio.com/download) |
+
 
 | Day 02    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Lecture      | Introduction to HTML   |   HTML and syntax. Introduction to Visual Studio Code.  |
 | Watch    | [HTML Fundamentals Video]([https://www.youtube.com/watch?v=UB1O30fR-EE) | Introduction to HTML |
-| Do       | Wire Framing    | Build site with 2 boxes, 3 boxes, 5 boxes |
+| Do       | Practice HTML fundamentals in class, build portfolio draft | Build a rough draft of your portfolio only using HTML. This is an opportunity to ask the instructor, and your classmates carifying questions before diving into your other assignments.|
 
 
 | Day 03    | Material     | Description  |
@@ -80,25 +85,55 @@
 | Day 05    | Material     | Description  |
 | ---------|:-------------:| :-----:|
 | Discussion  | Discuss article about Haben Girma | Description |
-| 
 | Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Work for rest of day   |
 
 | Weekend    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Read     | [responsiveness in HTML and CSS](https://medium.com/@lumrachele/the-fast-track-to-responsive-web-design-with-css-5020ee040450) |Learn how to make your sites from the previous week responsive|
-| Read | [Career Paths](https://killalldefects.com/2020/02/22/specializing-vs-generalizing-careers/)  | Learn more about potential career paths you can go in within tech  | 
-| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Finish creating these sites using only HTML. Due Monday in class.   |
+| Read     | [Career Paths](https://killalldefects.com/2020/02/22/specializing-vs-generalizing-careers/)  | Learn more about potential career paths you can go in within tech  | 
+| Learn CSS basics| [How to use CSS](https://killalldefects.com/2020/02/22/specializing-vs-generalizing-careers/)  | Learn more about potential career paths you can go in within tech  | 
+| Do   | [Facebook](),[www.facebook.com](),[Yelp](www.yelp.com),[Vogue](www.vogue.com),[Kentucky.gov](www.kentucky.gov), [ACLU](www.aclu.org) | Finish creating these sites using only HTML. Due Monday in class.|
 
 ***
 
 ## Week02
-*Introduction to CSS*
+*Introduction to CSS and Media Queries*
 
 | Day 01    | Material     | Description  |
 | ---------|:-------------:| :-----:|
-| Lecture| Introduction to CSS| Introducing media queries to students|
+| Lecture| Introduction to CSS| Introducing CSS basics to students in class, live demo using sample site|
 | Lecture| Discussion on separation of concerns| Introducing media queries to students|
 | Watch  | [CSS For Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)| Learn CSS Fundamentals|
-| Read | [CSS Literatur](#)| Learn CSS Fundamentals (tutorial for tatile learners)|
+| Read   | [CSS Literatur](#)| Learn CSS Fundamentals (tutorial for tatile learners)|
+| Do     | Begin adding CSS to your HTML projects.| All 5 websites should have CSS styling by the end of the week|
+
+| Day 02    | Material     | Description  |
+| ---------|:-------------:| :-----:|
+| Lecture| Introduction to CSS| Introducing Flexbox and Grid to students, live demo using sample site|
+| Lecture| Discussion on separation of concerns, continued| Introducing media queries to students|
+| Do|[Flexbox Froggy](https://flexboxfroggy.com/)| Introducing Flexbox to students|
+| Do|[Grid Garden](https://cssgridgarden.com/)| Introducing CSS grid to students|
+
+| Day 03    | Material     | Description  |
+| ---------|:-------------:| :-----:|
+| Lecture| Introduction to CSS| Introducing media queries to students| Learn the basics of Media Queries in class| 
+| Lecture| Discussion on separation of concerns| Introducing media queries to students|
+| Do | continue working on your websites using flexbox, grid, and css skills in class.|
+
+| Day 04    | Material     | Description  |
+| ---------|:-------------:| :-----:|
+| Lecture| Introduction to CSS| Introducing media queries to students|
+| Lecture| Discussion on separation of concerns| Introducing media queries to students|
+| Watch  | [Media Queries for beginers](https://www.youtube.com/watch?v=yfoY53QXEnI)| Learn CSS Fundamentals|
+| Read     | [responsiveness in HTML and CSS](https://medium.com/@lumrachele/the-fast-track-to-responsive-web-design-with-css-5020ee040450) |Learn how to make your sites from the previous week responsive|
 | Do  | Begin adding CSS to your HTML projects.| All 5 websites should have CSS styling by the end of the week|
+|Do| get started on making wire frames given responsive| pracice responsiveness on simple wireframes|
+
+
+| Day 05    | Material     | Description  |
+| ---------|:-------------:| :-----:|
+|Do| Take today as an oportunity to get all of your work done (Adding CSS to your news sites) in class with the Instructors assistance.| |
+|Do| Continue or Start working on making wire frames responsive.|
+
+
+
 
